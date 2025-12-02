@@ -58,7 +58,11 @@ A = 4.5μm (core radius), N.A = 0.11, λ = 633nm
 V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V^2 / 2 = 4.91^2 / 2
+<img width="1084" height="320" alt="image" src="https://github.com/user-attachments/assets/cdcc171b-2715-4648-aecd-5612f20beaa6" />
 
 ---
 ## Tabulation
+<img width="1084" height="320" alt="image" src="https://github.com/user-attachments/assets/c1618209-672f-4431-a989-8e0de8ea1c31" />
+
 ## Result
+Thus Simulation of Optical Communication is simulate and observed Successfully.
